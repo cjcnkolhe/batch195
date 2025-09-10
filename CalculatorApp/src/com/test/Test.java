@@ -5,4 +5,8 @@ public class Test {
 		System.out.println("CalculatorApp");
 	}
 
+	public int sub(int a, int b) {
+		return a - b;
+	}
+
 }
